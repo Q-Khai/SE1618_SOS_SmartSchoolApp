@@ -9,10 +9,10 @@ Applying information technology in management and teaching and learning activiti
 
 With a leading technology school like Fpt, this promises to be a useful system developed for the common goal of building a smart and modern school.
 ## Team Member
-1. Trịnh Ngọc Bảo
-2. Phạm Ngọc Long
-3. Nguyễn Văn Hải Nam
-4. Tăng Quang Khải
+- [Trịnh Ngọc Bảo](https://www.facebook.com/ngocbao159)
+- [Phạm Ngọc Long](https://www.facebook.com/phamlong.19)
+- [Nguyễn Văn Hải Nam](https://www.facebook.com/hainam1010)
+- [Tăng Quang Khải](https://www.facebook.com/qukhaiiiiiii)
 
 ## Project User's interface:
 **Welcome Page:**
